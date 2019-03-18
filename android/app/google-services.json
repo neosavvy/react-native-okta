@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1094049688781",
+    "firebase_url": "https://d20operator-client.firebaseio.com",
+    "project_id": "d20operator-client",
+    "storage_bucket": "d20operator-client.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094049688781:android:d88034a76cc9816e",
+        "android_client_info": {
+          "package_name": "com.ccc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094049688781-0vt05guon32lefv7789fk473k4u7gknl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1YNS7_eaKrJCcR-8ffBZMFPusRDV4P6g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

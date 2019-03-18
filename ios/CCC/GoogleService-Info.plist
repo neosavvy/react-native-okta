@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>1094049688781-rmk2cp9fdfs9qglejapgvqhamhfe7c26.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1094049688781-rmk2cp9fdfs9qglejapgvqhamhfe7c26</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBVik4_5hOi-LAo5L2-gqbyj3x8JB6r6VQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1094049688781</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.d20operator</string>
+	<key>PROJECT_ID</key>
+	<string>d20operator-client</string>
+	<key>STORAGE_BUCKET</key>
+	<string>d20operator-client.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1094049688781:ios:2f16dbaeafa7d0cb</string>
+	<key>DATABASE_URL</key>
+	<string>https://d20operator-client.firebaseio.com</string>
+</dict>
+</plist>
