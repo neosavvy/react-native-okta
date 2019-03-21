@@ -1,5 +1,5 @@
 PODS:
-  - AppAuth (0.95.0)
+  - AppAuth (0.94.0)
   - Firebase/Core (5.18.0):
     - Firebase/CoreOnly
     - FirebaseAnalytics (= 5.7.0)
@@ -75,7 +75,7 @@ PODS:
   - yoga (0.59.1.React)
 
 DEPENDENCIES:
-  - AppAuth (>= 0.94)
+  - AppAuth (= 0.94)
   - Firebase/Core
   - Firebase/Database
   - React (from `../node_modules/react-native`)
@@ -108,7 +108,7 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native/ReactCommon/yoga"
 
 SPEC CHECKSUMS:
-  AppAuth: 137f6bb6fc9dfbaf2cf9f6fcff1d336ff0163bc6
+  AppAuth: 0f099c2286a1a9754e5bd27211c43d307dc4f778
   Firebase: 02f3281965c075426141a0ce1277e9de6649cab9
   FirebaseAnalytics: 23851fe602c872130a2c5c55040b302120346cc2
   FirebaseAuthInterop: 0ffa57668be100582bb7643d4fcb7615496c41fc
@@ -124,6 +124,6 @@ SPEC CHECKSUMS:
   TouchID: ba4c656d849cceabc2e4eef722dea5e55959ecf4
   yoga: 8fb47f180b19b0dadb285a09e4c74c8a41721d3a
 
-PODFILE CHECKSUM: 86ccba7400654fb0f259ad1808b76efa53916892
+PODFILE CHECKSUM: 5ccb2ae3a24ddc349ec38a89999289ecefdaabea
 
 COCOAPODS: 1.6.1
